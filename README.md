@@ -1,7 +1,3 @@
-# soc-detect-nmap-wazuh
-SOC detection lab demonstrating Nmap reconnaissance, SSH access attempts, and Wazuh alert investigation in a home lab environment.
-# SOC Detection Lab: Nmap Scan and Wazuh Alert Investigation
-
 ## Project Overview
 This project demonstrates a basic SOC-style detection and investigation workflow built in a home lab environment. The goal was to simulate attacker activity from a Kali Linux machine, observe exposed services on a target Ubuntu endpoint, attempt SSH access, and review how Wazuh captured related security events.
 
