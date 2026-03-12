@@ -65,5 +65,8 @@ Wazuh reflected multiple authentication-related events associated with the SSH a
 
 ## Related Project
 
-For the broader Wazuh lab environment, see the related repository:
-`soclab-wazuh`
+This project is part of a broader SOC monitoring lab.
+
+For the full Wazuh lab setup and environment documentation, see the related repository:
+
+[soclab-wazuh](https://github.com/Lenox2Linux/soclab-wazuh)
